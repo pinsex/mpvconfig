@@ -1,0 +1,25 @@
+# Video settings
+vo=gpudirect3d:fbo-format=rgb
+hwdec=auto
+
+# Audio settings
+volume=60%
+
+# Subtitle settings
+
+# OSC settings
+script-opts=osc-layout=box,osc-seekbarstyle=bar
+
+# OSD settings
+no-osd-bar
+
+# Screenshot settings
+
+# Window settings
+
+# Miscellaneous settings
+cache=auto
+
+# Unknown and custom settings
+
+# Extensions - Do not add custom settings that are not extension related below this line.
